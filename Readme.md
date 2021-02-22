@@ -5,6 +5,9 @@
 - PA : Personal Assistant(Each PA will have a human like name too).
 - PAM : Personal Assistant Manager(This is a real human that can manage PA's using some Web App using its credential provided).
 - PAM : Can instruct/manage/change behaviour of the PA.
+- AP: Automated Psychlogist
+- PAM can talk to clients directly too if user confirms when asked by the PA bot during any conversation with the client.
+- LC: Life Coach
 
 ## General Idea
 
@@ -13,6 +16,8 @@
 - Invite(on request of our customer) other person to something
 - can note down some problem from customer and get the PAM notified about it in real time, so PAM can assist/help the customer regarding a area of interest.
 - PA will use JIO to call anybody so its call charges are feasible for the MVP product and public users usage.
+- Assist the client in - Diet, exercise, clothing, more to come here.
+- Affirmation, applause and health compliments, other such psychological things to say during interaction of PA and a client.
 
 ## resource in need
 
@@ -24,6 +29,8 @@
 
 ### Building a cheap solution:
 
-- You can simulate real device and speak into it using some other device with some speaker directly placed in front of it. The speaker used to feed bot's voice (whose audio will go into the mobile's mic) is generated using a nodejs program using some toolkit, and the software is supposed to run on my same laptop, but my audio output is feeded from the software to the speaker.
+- You can simulate real device and feed sound into it using a speaker directly placed in front of it the mobile. The speaker used to feed bot's voice (whose audio will go into the mobile's mic) is generated using a nodejs program using some toolkit, and the software is supposed to run on my same laptop, but my audio output is feeded from the software to the speaker only.
 
-- The primite thing is I need some portable speaker and a mic for receiving the the audio from the mobile's speaker, and the setup is supposed to put in a sound proof environment so that sound noise is minimum.
+- The primite thing is I need some portable speaker and a mic for receiving the the audio from the mobile's speaker during a call, and the setup is supposed to put in a sound proof environment so that sound noise is minimum.
+
+- The foremost thing is this setup is to be able to control mobile touchscreen and clicking it via some automated manner(E2E testing software) like what cypress does for web-apps. And this testing software will help me trigger to automated touch anywhere on the mobile screen from the laptop only.
