@@ -12,4 +12,4 @@
 - Greet for some event, bless some thing based on the ocassion type.
 - Invite(on request of our customer) other person to something
 - can note down some problem from customer and get the PAM notified about it in real time, so PAM can assist/help the customer regarding a area of interest.
-- PA will use JIO to call anybody so its call charges are feasible the MVP product and public users.
+- PA will use JIO to call anybody so its call charges are feasible for the MVP product and public users usage.
