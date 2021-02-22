@@ -29,6 +29,9 @@
 
 ### Building a cheap solution
 
+--> links [google search - what software do customer care company use](https://www.google.com/search?q=what+software+do+customer+care+use+to+manage+calls&rlz=1C1CHBD_enIN917IN917&oq=what+software+do+customer+care+use+to+manage+calls&aqs=chrome..69i57j33i160.21817j0j1&sourceid=chrome&ie=UTF-8), [The 12 Best Call Center Software in 2021](The 12 Best Call Center Software in 2021
+), 
+
 - You can simulate real device and feed sound into it using a speaker directly placed in front of it the mobile. The speaker used to feed bot's voice (whose audio will go into the mobile's mic) is generated using a nodejs program using some toolkit, and the software is supposed to run on my same laptop, but my audio output is feeded from the software to the speaker only.
 
 - The primite thing is I need some portable speaker and a mic for receiving the the audio from the mobile's speaker during a call, and the setup is supposed to put in a sound proof environment so that sound noise is minimum.
