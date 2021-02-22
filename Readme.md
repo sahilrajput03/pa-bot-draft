@@ -19,3 +19,5 @@
 - [How to build your own custom Android ROM](https://www.androidauthority.com/build-custom-android-rom-720453/#:~:text=Download%20and%20build%20Android%20from,and%20then%20read%20it%20again.)
 
 - above related android source, [>>> here <<<](https://source.android.com/setup/build/requirements).
+
+- from [google-search](https://www.google.com/search?newwindow=1&rlz=1C1CHBD_enIN917IN917&sxsrf=ALeKk03bkyPYTqRtX9prpp7lAPELTcck7A%3A1614008664965&ei=WNEzYN6zOsyCyAP6mayYAg&q=make+an+android+os&oq=make+an+android+os&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgM6BwgAEEcQsAM6BwgjEOoCECc6BAgjECc6BAgAEEM6BQgAEJECOgUIABCxAzoECC4QQzoLCC4QsQMQxwEQowI6BwgAELEDEEM6CAgAELEDEIMBOgIIAFCK8IYBWOOMhwFg9o2HAWgCcAF4AIAB0gKIAd4akgEIMC4xOC4xLjGYAQCgAQGqAQdnd3Mtd2l6sAEKyAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjev47p6v3uAhVMAXIKHfoMCyMQ4dUDCA0&uact=5).
