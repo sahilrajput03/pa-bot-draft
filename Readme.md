@@ -21,3 +21,9 @@
 - above related android source, [>>> here <<<](https://source.android.com/setup/build/requirements).
 
 - from [google-search](https://www.google.com/search?newwindow=1&rlz=1C1CHBD_enIN917IN917&sxsrf=ALeKk03bkyPYTqRtX9prpp7lAPELTcck7A%3A1614008664965&ei=WNEzYN6zOsyCyAP6mayYAg&q=make+an+android+os&oq=make+an+android+os&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIFCAAQhgMyBQgAEIYDMgUIABCGAzIFCAAQhgM6BwgAEEcQsAM6BwgjEOoCECc6BAgjECc6BAgAEEM6BQgAEJECOgUIABCxAzoECC4QQzoLCC4QsQMQxwEQowI6BwgAELEDEEM6CAgAELEDEIMBOgIIAFCK8IYBWOOMhwFg9o2HAWgCcAF4AIAB0gKIAd4akgEIMC4xOC4xLjGYAQCgAQGqAQdnd3Mtd2l6sAEKyAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjev47p6v3uAhVMAXIKHfoMCyMQ4dUDCA0&uact=5).
+
+### Building a cheap solution:
+
+- You can simulate real device and speak into it using some other device with some speaker directly placed in front of it. The speaker used to feed bot's voice (whose audio will go into the mobile's mic) is generated using a nodejs program using some toolkit, and the software is supposed to run on my same laptop, but my audio output is feeded from the software to the speaker.
+
+- The primite thing is I need some portable speaker and a mic for receiving the the audio from the mobile's speaker, and the setup is supposed to put in a sound proof environment so that sound noise is minimum.
