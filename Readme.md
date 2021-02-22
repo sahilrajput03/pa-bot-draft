@@ -19,7 +19,7 @@
 - Assist the client in - Diet, exercise, clothing, more to come here.
 - Affirmation, applause and health compliments, other such psychological things to say during interaction of PA and a client.
 
-## resource in need
+## Resource in need
 
 - [How to build your own custom Android ROM](https://www.androidauthority.com/build-custom-android-rom-720453/#:~:text=Download%20and%20build%20Android%20from,and%20then%20read%20it%20again.)
 
