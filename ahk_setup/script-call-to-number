@@ -1,5 +1,5 @@
 #!/bin/bash
-sed -i '18d' ahk.ahk #deletes the line no. 16
-sed -i "18isend $*" ahk.ahk #add line at line no. 16
+sed -i '20d' ahk.ahk #deletes the line no. 20
+sed -i "20isend $*" ahk.ahk #add line at line no. 20
 ./bat.bat
 #"C:\Program Files\AutoHotkey\AutoHotkey.exe" ahk.ahk #this says permission denied coz ahk is supposed to run via admin, coz set as run as admin from properties> compartibility settings.
