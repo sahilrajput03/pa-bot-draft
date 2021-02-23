@@ -1,3 +1,17 @@
+
+## Project making Checklist: 
+
+(* means **less important**) 
+
+- [x] Make a simple cli to control scrpy streamed android screen for making a call provided via cli.
+
+- [ ] Make sample {speech input}-{text output} and sample {text input}-{speech output} nodejs program.
+
+- [ ] * Make a locally hosted webapp(backend+frontend) that facilitates making instant call from web interface through your real device.
+
+- [ ] Make a  program that call someone(let say priyam) and gives new message everytime after interval of 2hrs. It can be affirmation message or some complement or some route message. Prepare 3 messages for 3 calls and automate them via a nodejs program.
+
+
 #### Keywords
 
 - Bot : Vocally talking machine
@@ -40,16 +54,3 @@
 - The primite thing is I need some portable speaker and a mic for receiving the the audio from the mobile's speaker during a call, and the setup is supposed to put in a sound proof environment so that sound noise is minimum.
 
 - The foremost thing is this setup is to be able to control mobile touchscreen and clicking it via some automated manner(E2E testing software) like what cypress does for web-apps. And this testing software will help me trigger to automated touch anywhere on the mobile screen from the laptop only.
-
-
-## Project making Checklist: 
-
-(* means **less important**) 
-
-- [x] Make a simple cli to control scrpy streamed android screen for making a call provided via cli.
-
-- [ ] Make sample {speech input}-{text output} and sample {text input}-{speech output} nodejs program.
-
-- [ ] * Make a locally hosted webapp(backend+frontend) that facilitates making instant call from web interface through your real device.
-
-- [ ] Make a  program that call someone(let say priyam) and gives new message everytime after interval of 2hrs. It can be affirmation message or some complement or some route message. Prepare 3 messages for 3 calls and automate them via a nodejs program.
