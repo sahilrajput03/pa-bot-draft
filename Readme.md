@@ -29,6 +29,10 @@
 
 ### Building a cheap solution
 
+- Tip for pa bot: use ctrl+p+o to open mobile but turn screen off on mobile.
+
+- I can make screen always off and keep it like that for eternity to be able to use screen for autopilot mode.
+
 - You can simulate real device and feed sound into it using a speaker directly placed in front of it the mobile. The speaker used to feed bot's voice (whose audio will go into the mobile's mic) is generated using a nodejs program using some toolkit, and the software is supposed to run on my same laptop, but my audio output is feeded from the software to the speaker only.
 
 - The primite thing is I need some portable speaker and a mic for receiving the the audio from the mobile's speaker during a call, and the setup is supposed to put in a sound proof environment so that sound noise is minimum.
