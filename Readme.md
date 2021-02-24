@@ -1,4 +1,12 @@
 
+### text to speech links for frontend(react), not found for node :(
+
+- https://www.npmjs.com/package/speech-to-text
+- https://github.com/magician11/speech-to-text
+- https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API
+- https://github.com/somonus/react-speech-recognition-input
+
+
 ## Project making Checklist: 
 
 (* means **less important**) 
